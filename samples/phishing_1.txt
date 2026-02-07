@@ -1,0 +1,8 @@
+From: "IT Support" <it-support@secure-helpdesk.com>
+Subject: Urgent: Password Expiring Today
+
+Your password will expire in 2 hours. Verify immediately to avoid account lock.
+Click here to verify: http://198.51.100.55/login
+
+Thanks,
+IT Team
